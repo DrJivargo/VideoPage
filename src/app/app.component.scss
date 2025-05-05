@@ -1,0 +1,24 @@
+.page{
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+foreignObject {
+  background-size: cover;
+}
+video {
+  width: 100%;
+}
+text {
+  font-size: 0.7rem;
+  font-weight: bold;
+  fill: white;
+}
+.back {
+  fill: black;
+}
+.erectio [fill="black"] {
+  height: .4rem;
+}
